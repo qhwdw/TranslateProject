@@ -1,8 +1,14 @@
 [#]: collector: (lujun9972)
 [#]: translator: (qhwdw)
+<<<<<<< HEAD:translated/tech/20181212 How to Build a Netboot Server, Part 2.md
 [#]: reviewer: ()
 [#]: publisher: ()
 [#]: url: ()
+=======
+[#]: reviewer: ( )
+[#]: publisher: ( )
+[#]: url: ( )
+>>>>>>> a189ee63acd1029a88593f05eabe5bf6e73dc5c0:sources/tech/20181212 How to Build a Netboot Server, Part 2.md
 [#]: subject: (How to Build a Netboot Server, Part 2)
 [#]: via: (https://fedoramagazine.org/how-to-build-a-netboot-server-part-2/)
 [#]: author: (Gregory Bartholomew https://fedoramagazine.org/author/glb/)
